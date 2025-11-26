@@ -63,7 +63,6 @@ namespace RandomClassSelector
         [
             "PGL",
             "LNC",
-            "ROG",
             "MNK",
             "DRG",
             "SAM",
@@ -74,9 +73,11 @@ namespace RandomClassSelector
         private readonly List<string> PhysRanged =
         [
             "ARC",
+            "ROG",
             "BRD",
             "DNC",
-            "MCH"
+            "MCH",
+            "NIN"
         ];
         private readonly List<string> Casters =
         [
