@@ -74,6 +74,7 @@ namespace RandomClassSelector
         private readonly List<string> PhysRanged =
         [
             "ARC",
+            "NIN",
             "BRD",
             "DNC",
             "MCH"
