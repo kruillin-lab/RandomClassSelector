@@ -4,7 +4,7 @@
   "ApplicableVersion": "any",
   "Description": "Allows you to select a random class to do dailies/etc on.",
   "Punchline": "Can't decide what class to work on today? Let the plugin decide for you!",
-  "RepoUrl": "https://github.com/Aida-Enna/RandomClassSelector",
+  "RepoUrl": "https://github.com/kruillin-lab/RandomClassSelector",
   "Tags": [
     "random",
     "class",
